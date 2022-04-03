@@ -10,7 +10,7 @@ Here's the list of the courses, books and videos I've studied. It's a place for 
 The time the list has started is 03.04.2022
 
 Courses:
-  DataCamp Learn: Introduction to Python (67%)
+  DataCamp Learn: Introduction to Python (Completed)
   https://campus.datacamp.com/courses/intro-to-python-for-data-science
 
 Books:
