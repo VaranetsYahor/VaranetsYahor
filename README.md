@@ -17,3 +17,5 @@ Books:
 Videos:
 Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn) | freeCodeCamp.org (In Progress) url: https://www.youtube.com/watch?v=r-uOLxNrNk8
   
+Blogs:
+Ещё раз про семь основных методологий разработки, url: https://habr.com/ru/company/edison/blog/269789/
