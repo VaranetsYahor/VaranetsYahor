@@ -10,12 +10,10 @@ Here's the list of the courses, books and videos I've studied. It's a place for 
 The time the list has started is 03.04.2022
 
 Courses:
-  DataCamp Learn: Introduction to Python (Completed)
-  https://campus.datacamp.com/courses/intro-to-python-for-data-science
+DataCamp Learn: Introduction to Python (Completed) url: https://campus.datacamp.com/courses/intro-to-python-for-data-science
 
 Books:
 
 Videos:
-  Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn) | freeCodeCamp.org (In Progress)
-    https://www.youtube.com/watch?v=r-uOLxNrNk8
+Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn) | freeCodeCamp.org (In Progress) url: https://www.youtube.com/watch?v=r-uOLxNrNk8
   
